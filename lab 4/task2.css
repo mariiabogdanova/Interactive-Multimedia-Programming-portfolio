@@ -1,0 +1,16 @@
+body{
+	font-family: Arial;
+}
+
+canvas{
+	background-color: #e6e6e6;
+}
+
+#game_button{
+	width: 155px;
+	height: 20px;
+	background-color: red;
+	padding: 10px;
+	text-decoration-color: white;
+	color: white;
+}
